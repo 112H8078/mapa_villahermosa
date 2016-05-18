@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Escuela primaria Lic.Manuel Sanchez Marmol", "TEL": "(993) 119-0638", "URL": " ", "ADRESS1": "Av Mártires de Cananea,Progresivo Ciudad Industrial,86017 Villahermosa, Tabasco", "ADDRESS2": null, "CITY": "Villahermosa", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ 
+-92.9019144, 18.0201376 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Escuela primaria GUADALUPE MARTINEZ DE CORDOVA", "TEL": "(993) 315-2833", "URL": " ", "ADRESS1": "Paseo La Ceiba, Primero de Mayo, Villahermosa, Tabasco","ADDRESS2": null, "CITY": "Villahermosa", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9363204, 17.9796420 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Escuela Primaria Jose Morgas Garcia", "TEL": "(993) 315-3908", "URL": " ", "ADRESS1": " Ignacio Gutiérrez 103, Gil y Saenz, 86080", "ADDRESS2": null, "CITY": "Villahermosa", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9373288, 17.9865940 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Escuela Primaria Benito Juarez", "TEL": "(993) 352-3315", "URL": " ", "ADRESS1": "Avenida 27 De Febrero Num_1720 CP 86100", "ADDRESS2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9427734, 17.9837383 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Escuela primaria Federal. Prof.luz loreto", "TEL": "(993) 352-3315", "URL": " ", "ADRESS1": "Anacleto Canabal,Primero de Mayo,86190", "ADDRESS2": null, "CITY": "Villahermosa", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9334086, 17.9749533 ] } }
+
+]
+}

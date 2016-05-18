@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Universidad_Dunamis", "TEL": "(992) 314-0303", "URL": "http://universidades.estudia.com.mx/", "ADDRESS1": "Av. Gregorio Méndez Magaña 677 Centro Delegacion Cuatro 86077 Villahermosa, tabasco", "ADDRES2": null, "CITY": "Villahermosa", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9149170,  17.9915852 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Instituto_Tecnologico_villahermosa", "TEL": "(993) 353-0259", "URL": "http://itvillahermosa.edu.mx/", "ADDRESS1": "Carretera Villahermosa-Frontera Km. 3.5, Ciudad Industrial, 86010 Villahermosa,Tabasco", "ADDRES2": null, "CITY": "Villahermosa", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9036913,  18.0227453 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Universidad TecMilenio", "TEL": "(212) 753-5959", "URL": "http:\/\/www.59e59.org\/", "ADDRESS1": "59 East 59th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9320836, 18.0201214 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Universidad Autonoma de Guadalajara", "TEL": "(993) 310-5170", "URL": "www.uag.mx", "ADDRESS1": "prol.paseo usumacinta km.3.5, villahermosa, tabasco", "ADDRES2": null, "CITY": "Villahermosa", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9985472, 18.0193901 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Universidad juarez Autonoma de Tabasco", "TEL": "(993) 358-1500", "URL": "http://www.ujat.mx/", "ADDRESS1": "Av. Universidad s/n, Centro, Magisteria, 86040 Villahermosa, Tabasco", "ADDRES2": null, "CITY": "Villahermosa", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9247241, 18.0080058 ] } }
+
+]
+}
